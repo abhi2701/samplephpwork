@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>My name is abhiabhi</h1>
+<h1>SRIVASTAVA</h1>
 
 <?php
 echo "version 1.0";
