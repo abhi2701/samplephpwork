@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>SRIVASTAVA</h1>
+<h1>king</h1>
 
 <?php
-echo "version 1.0";
+echo "version 4.0";
 ?>
 
 </body>
